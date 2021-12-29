@@ -7,7 +7,7 @@ This repository contains some basic introductory materials for reading and writi
 ## **Notebooks**
 + Importing Packages and Writing with Markdown
 + Basic Data Manipulation and Cleaning
-+ Reading and Writing Files
++ Reading, Joining and Writing Files
 + Census API, Estimates and TIGER Files
-+ Bureau of Labor Statistics API
-+ Joining, Appending, and Concatenating Data 
++ Bureau of Labor Statistics API  
++ Socrata API 
